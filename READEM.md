@@ -8,7 +8,7 @@ this repository have as purpose to store my personal philosophic document
 - Axioms "definition"
 - Definition of theory
 - Methodology definition for:
-    - write essay
+    - write essay [document](https://users.ox.ac.uk/~sfop0114/pdf/essaywriting.pdf) or [video](https://www.youtube.com/watch?v=hwd5wWY5TmM)
     - define concept
     - define theory
     - read efficiently
